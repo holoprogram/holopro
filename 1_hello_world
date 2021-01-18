@@ -1,0 +1,12 @@
+print("hello, world!")
+
+#计算
+
+from math import sqrt
+print("10//3 is:",10//3)
+print("10%3 is:",10%3)
+print("round(3.2) is:",round(3.2))
+print("abs(-10) is:",abs(-10))
+print("int(32.9) is:",int(32.9))
+
+print("sqrt(4) is:",sqrt(4))
